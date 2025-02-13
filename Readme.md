@@ -1,6 +1,6 @@
 # Diffusion Models Tutorial (Python)
 
-This repository shows you the implementation of representative diffusion model (DM) algorithms from scratch in Python, with theoretical aspects behind code.
+This repository shows you the implementation of representative diffusion model (DM) algorithms from scratch in Python (PyTorch), with theoretical aspects behind code.
 
 ## Table of Contents
 
