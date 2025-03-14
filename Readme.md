@@ -8,7 +8,7 @@ This repository shows you the implementation of representative diffusion model a
 - [Denoising Diffusion Probabilistic Models (DDPM)](02-ddpm.ipynb)
 - [Score Matching with Langevin Dynamics (SMLD)](03-smld.ipynb)
 - [Score-based generative modeling with Stochastic Differential Equation (SDE)](04-sde.ipynb)
-- [Class-conditional Diffusion Models](05-class-conditional.ipynb)
+- [Conditional Diffusion Models](05-class-conditional.ipynb)
 - [Classifier Diffusion Guidance](06-classifier-guidance.ipynb)
 - [Classifier-free Diffusion Guidance](07-classifier-free-guidance.ipynb)
 
